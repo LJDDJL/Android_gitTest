@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Draft</string>
+    <string name="textview">TextView</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="switch1">开关</string>
+    <string name="Number">输入数字</string>
+    <string name="button3">确定</string>
+    <string name="radiobutton1">安卓</string>
+    <string name="radiobutton2">苹果</string>
+    <string name="icon_msg">图标</string>
+    <string name="checkbox1">语文</string>
+    <string name="checkbox2">数学</string>
+    <string name="checkbox3">英语</string>
+    <string name="rating_bar">打分</string>
+</resources>
